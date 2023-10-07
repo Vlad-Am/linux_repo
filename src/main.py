@@ -1,1 +1,2 @@
-print("Xеллоу ворлд")
+print("Xеллоу linux")
+
